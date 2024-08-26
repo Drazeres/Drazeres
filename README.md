@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lucas
 - 👀 I’m interested in games
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on progaming
+- 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me, my email
 - 😄 Pronouns: he/her
 - ⚡ Fun fact: idk
