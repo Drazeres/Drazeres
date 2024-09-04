@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Lucas
-- 👀 I’m interested in games
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on programming
+- 👀 I’m interested in 
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me, my email
 - 😄 Pronouns: he/her
-- ⚡ Fun fact: idk
+- ⚡ Fun fact: i am brazilian
 
 <!---
 Drazeres/Drazeres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
