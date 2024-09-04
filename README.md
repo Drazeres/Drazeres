@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me, my email
-- 😄 Pronouns: he/her
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i am brazilian
 
 <!---
