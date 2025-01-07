@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas
-- 👀 I’m interested in 
+- 👀 I’m interested in games
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me, my email
